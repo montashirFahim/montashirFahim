@@ -3,7 +3,7 @@
 🔗 **Portfolio:** https://portfolio-montashir.vercel.app/
 
 I’m a **CSE graduate at RUET**, passionate about **competitive programming, deep learning research, and full-stack development**.  
-Currently focused on **time-series forecasting for EV charging**.
+Currently focused on **Django-Python full-stack development, time-series forecasting for EV charging**.
 
 ---
 
