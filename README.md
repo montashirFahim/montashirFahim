@@ -3,14 +3,14 @@
 🔗 **Portfolio:** https://portfolio-montashir.vercel.app/
 
 I’m a **CSE graduate at RUET**, passionate about **competitive programming, deep learning research, and full-stack development**.  
-Currently focused on **Django-Python full-stack development, time-series forecasting for EV charging**.
+Currently working at **Pathao** as **Backend Engineer**.
 
 ---
 
 ## 🚀 Skills
 
-- **Languages:** C, C++, Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Express.js, Django, Keras, TensorFlow, PyTorch  
+- **Languages:** C, C++, Python, Java, JavaScript, HTML, CSS, Golang, PHP  
+- **Frameworks & Libraries:** Chi, Gin, Laravel, Django, Keras, TensorFlow, PyTorch  
 - **Databases:** MySQL, PostgreSQL  
 - **Tools & Platforms:** Git, Docker, Postman, Node.js, Vercel  
 - **Specialties:** DSA, OOP, Number Theory, Deep Learning, REST APIs, JWT  
